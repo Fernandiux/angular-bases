@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Prueba Inicial de Github
+=======
+# Prueba de Ensayo de Github
+>>>>>>> 398fe5db2a685286dbee4e0970afa5149b86eddf
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
